@@ -1,0 +1,1 @@
+This repository contains a sample bot built on Gupshup Bot platform: https://www.gupshup.io/conversational-messaging-platform/chatbot-platform
